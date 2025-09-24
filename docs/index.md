@@ -136,11 +136,4 @@ domain-specific knowledge in this platform.
         <a href="https://x.com/BrianSeong99"><span class="twitter-icon"></span></a>
         <a href="https://t.me/BrianSeong99"><span class="telegram-icon"></span></a>
     </div>
-    <div class="contributor-card">
-        <img src="https://github.com/gubloon.png" alt="Gubloon">
-        <h3><a href="https://github.com/gubloon">Gubloon</a></h3>
-        <a href="https://github.com/gubloon"><span class="github-icon"></span></a>
-        <a href="https://x.com/gubloon"><span class="twitter-icon"></span></a>
-        <a href="https://t.me/gubloon"><span class="telegram-icon"></span></a>
-    </div>
 </div>
